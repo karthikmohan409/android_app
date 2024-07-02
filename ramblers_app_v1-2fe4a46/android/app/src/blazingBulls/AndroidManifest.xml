@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application
+        android:label="Blazing Bulls"
+        android:icon="@mipmap/ic_launcher_blazing_bulls"
+        tools:replace="android:icon, android:label">
+    </application>
+</manifest>

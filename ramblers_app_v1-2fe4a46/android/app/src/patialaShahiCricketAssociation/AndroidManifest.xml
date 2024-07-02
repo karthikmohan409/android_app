@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application
+        android:label="Patiala Shahi Cricket Association"
+        android:icon="@mipmap/ic_launcher_patiala_shahi_cricket_association"
+        tools:replace="android:icon, android:label">
+    </application>
+</manifest>

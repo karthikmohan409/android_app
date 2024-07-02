@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <application
+        android:label="Mississauga Ramblers"
+        android:icon="@mipmap/ic_launcher_missisauga_ramblers"
+        tools:replace="android:icon, android:label">
+    </application>
+</manifest>
